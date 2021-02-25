@@ -31,7 +31,7 @@ Repositório referente aos códigos feitos por mim durante a disciplina Estatís
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/joaovictornsv">
+      <a href="https://github.com/vinimedeiros13">
         <img src="https://github.com/vinimedeiros13.png" width="100px;" alt="Profile"/><br/>
         <sub><b>Vinícius Medeiros</b></sub>
        </a><br/>
