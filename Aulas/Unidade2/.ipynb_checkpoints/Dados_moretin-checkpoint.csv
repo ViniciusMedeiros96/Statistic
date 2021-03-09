@@ -1,0 +1,37 @@
+Estado Civil;Grau de Instrução;N de Filhos;Salario (x Sal Min);Anos;Região de Procedência
+solteiro;ensino fundamental;;"4,00";26;interior
+casado;ensino fundamental;1;"4,56";32;capital
+casado;ensino fundamental;2;"5,25";36;capital
+solteiro;ensino médio;;"5,73";20;outra
+solteiro;ensino fundamental;;"6,26";40;outra
+casado;ensino fundamental;0;"6,66";28;interior
+solteiro;ensino fundamental;;"6,86";41;interior
+solteiro;ensino fundamental;;"7,39";43;capital
+casado;ensino médio;1;"7,59";34;capital
+solteiro;ensino médio;;"7,44";23;outra
+casado;ensino médio;2;"8,12";33;interior
+solteiro;ensino fundamental;;"8,46";27;capital
+solteiro;ensino médio;;"8,74";37;outra
+casado;ensino fundamental;3;"8,95";44;outra
+casado;ensino médio;0;"9,13";30;interior
+solteiro;ensino médio;;"9,35";38;outra
+casado;ensino médio;1;"9,77";31;capital
+casado;ensino fundamental;2;"9,80";39;outra
+solteiro;superior;;"10,53";25;interior
+solteiro;ensino médio;;"10,76";37;interior
+casado;ensino médio;1;"11,06";30;outra
+solteiro;ensino médio;;"11,59";34;capital
+solteiro;ensino fundamental;;"12,00";41;outra
+casado;superior;0;"12,79";26;outra
+casado;ensino médio;2;"13,23";32;interior
+casado;ensino médio;2;"13,60";35;outra
+solteiro;ensino fundamental;;"13,85";46;outra
+casado;ensino médio;0;"14,69";29;interior
+casado;ensino médio;5;"14,71";40;interior
+casado;ensino médio;2;"15,99";35;capital
+solteiro;superior;;"16,22";31;outra
+casado;ensino médio;1;"16,61";36;interior
+casado;superior;3;"17,26";43;capital
+solteiro;superior;;"18,75";33;capital
+casado;ensino médio;2;"19,40";48;capital
+casado;superior;3;"23,30";42;interior
