@@ -24,7 +24,7 @@ Repositório referente aos códigos feitos por mim durante a disciplina Estatís
 #### `4º Passo:` Agora, finalmente coloque o link no código acima mencionado;
 
 ```dados_2019 = pd.read_csv("https://raw.githubusercontent.com/vinimedeiros13/Statistic/main/Projeto/datatran2019.csv", sep=";", encoding="latin-1")```<br>
-```dados_2020 = pd.read_csv("https://raw.githubusercontent.com/vinimedeiros13/Statistic/main/Projeto/datatran2020.csv", sep=";", encoding="latin-1")```<br>
+```dados_2020 = pd.read_csv("https://raw.githubusercontent.com/vinimedeiros13/Statistic/main/Projeto/datatran2020.csv", sep=";", encoding="latin-1")```
 
 ### `Autor:`
 
@@ -35,7 +35,7 @@ Repositório referente aos códigos feitos por mim durante a disciplina Estatís
         <img src="https://github.com/vinimedeiros13.png" width="100px;" alt="Profile"/><br/>
         <sub><b>Vinícius Medeiros</b></sub>
        </a><br/>
-       <a href="https://github.com/vinimedeiros13" title="Code">💻</a>
+       <a href="https://github.com/vinimedeiros13" title="Code">🕵🏻‍♂️</a>
       </td>
   <tr>
 </table>
